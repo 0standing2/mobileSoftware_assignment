@@ -1,6 +1,6 @@
 # mobileSoftware_assignment
 2021-2 모바일소프트웨어 과제 개인 프로젝트( 운동 일지 기록 어플리케이션)
-
+<img width="1479" alt="image" src="https://user-images.githubusercontent.com/76774056/152936148-6f2bfb1a-0286-4120-bbdf-f92eff567184.png">
 
 ## Getting Started
 npx react-native link
